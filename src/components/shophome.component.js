@@ -1,10 +1,10 @@
 import React,{Component} from "react";
 
-export default class TodoLists extends Component{
+export default class Shophome extends Component{
     render(){
         return(
             <div>
-                <p>Welcome to TODO LISTS</p>
+                <p>Welcome to Shop</p>
             </div>
         )
     }
